@@ -10,7 +10,7 @@ using namespace std;
 // 	}
 // 	return ans;
 // }
-int factorial(int);  
+ 
 
 void NCR(int n,int r)
 {
@@ -37,3 +37,13 @@ int main()
     NCR(n,r);
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
